@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ivan/CLionProjects/BINARY_HEAP/BinaryHeap_main.cpp
+
+C:/Users/Ivan/CLionProjects/BINARY_HEAP/test.cpp
+catch.hpp
+-
+
