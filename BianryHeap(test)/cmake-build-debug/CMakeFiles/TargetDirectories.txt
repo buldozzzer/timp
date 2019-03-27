@@ -1,0 +1,3 @@
+C:/Users/Ivan/CLionProjects/BianryHeap(test)/cmake-build-debug/CMakeFiles/BianryHeap_test_.dir
+C:/Users/Ivan/CLionProjects/BianryHeap(test)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ivan/CLionProjects/BianryHeap(test)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

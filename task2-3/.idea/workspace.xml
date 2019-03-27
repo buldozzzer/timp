@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="task2_3" targetName="task2_3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7995f2b7-e8a6-41c9-881e-1d62497b5d8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BINARY_HEAP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/Progress/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/Progress/2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/Progress/count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/.idea/BianryHeap(test).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/BianryHeap_test_.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/BianryHeap_test_.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/BianryHeap_test_.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/BianryHeap_test_.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/BianryHeap_test_.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/BianryHeap_test_.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/BianryHeap_test_.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/BianryHeap_test_.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/BianryHeap_test_.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/BianryHeap_test_.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BianryHeap(test)/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/Heap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/Tree.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/Tree.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/Tree.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/task2-2.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/.idea/task2-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/task2-2.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/CMakeFiles/task2_2.dir/task2-2_main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/Project.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/task2_2.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/cmake-build-debug/task2_2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/task2-2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/task2-2.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2-2/task2-2_main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/task2-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/task2_3.dir/test.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/task2_3.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/task2_3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/task2_3.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/task2_3.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/dictionaries/Ivan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/untitled.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/untitled.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/tests.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/tree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/Stack.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/untitled1.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/cmake-build-debug/untitled1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/.idea/dictionaries/Ivan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/.idea/untitled_tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/CMakeFiles/untitled_tree.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/untitled_tree.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/cmake-build-debug/untitled_tree.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled_tree/tree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BINARY_HEAP/BinaryHeap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../BINARY_HEAP/BinaryHeap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BINARY_HEAP/BinaryHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/../BINARY_HEAP/BinaryHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/BINARY_HEAP.dir/BinaryHeap_main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/CMakeFiles/untitled.dir/tests.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/BINARY_HEAP.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/BINARY_HEAP.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/BINARY_HEAP.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/BINARY_HEAP.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/BINARY_HEAP.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/BINARY_HEAP.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/BINARY_HEAP.dir/test.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../BINARY_HEAP/cmake-build-debug/CMakeFiles/BINARY_HEAP.dir/test.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2-1/task2-1.h" beforeDir="false" afterPath="$PROJECT_DIR$/../task2-1/task2-1.h" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task2-3.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+              <folding>
+                <element signature="e#226#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#26#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/teast.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/task2-3.h" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/test.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="582" />
+    <option name="width" value="788" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="task2_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task2-3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task2-2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Catch. test.cpp">
+    <configuration name=" test.cpp" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task2_3" TARGET_NAME="task2_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task2_3" RUN_TARGET_NAME="task2_3" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task2_3" TARGET_NAME="task2_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task2_3" RUN_TARGET_NAME="task2_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main.cpp" />
+      <item itemvalue="Catch. test.cpp" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7995f2b7-e8a6-41c9-881e-1d62497b5d8f" name="Default Changelist" comment="" />
+      <created>1553113304237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553113304237</updated>
+      <workItem from="1553113308349" duration="6020000" />
+      <workItem from="1553119365206" duration="5000" />
+      <workItem from="1553198695779" duration="6186000" />
+      <workItem from="1553291049366" duration="3516000" />
+      <workItem from="1553437500828" duration="92000" />
+      <workItem from="1553710517198" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_test_cpp - 2019.03.23 at 01h 34m 37s.xml">
+      <configuration name=" test.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="_test_cpp - 2019.03.23 at 01h 37m 30s.xml">
+      <configuration name=" test.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="_test_cpp - 2019.03.23 at 01h 38m 16s.xml">
+      <configuration name=" test.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="_test_cpp - 2019.03.23 at 01h 40m 18s.xml">
+      <configuration name=" test.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="_test_cpp - 2019.03.23 at 01h 41m 35s.xml">
+      <configuration name=" test.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="_test_cpp - 2019.03.23 at 01h 41m 39s.xml">
+      <configuration name=" test.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="_test_cpp - 2019.03.23 at 01h 41m 47s.xml">
+      <configuration name=" test.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="_test_cpp - 2019.03.23 at 01h 41m 57s.xml">
+      <configuration name=" test.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="_test_cpp - 2019.03.23 at 01h 42m 39s.xml">
+      <configuration name=" test.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="_test_cpp - 2019.03.23 at 01h 43m 25s.xml">
+      <configuration name=" test.cpp" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16150000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47954175" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.60229135" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="TeamCity" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="CMake" order="13" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp" />
+    <entry file="file://$USER_HOME$/Desktop/catch.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="8431" selection-start-line="8431" selection-end-line="8431" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_iterator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="845" selection-start-line="845" selection-end-line="845" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#26#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task2-3.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+          <folding>
+            <element signature="e#226#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
