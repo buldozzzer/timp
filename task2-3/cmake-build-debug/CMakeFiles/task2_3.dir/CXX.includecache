@@ -13,6 +13,8 @@ cstdlib
 -
 math.h
 -
+vector
+-
 
 C:/Users/Ivan/CLionProjects/task2-3/test.cpp
 task2-3.h
