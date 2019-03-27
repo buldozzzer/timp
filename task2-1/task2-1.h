@@ -37,7 +37,14 @@ Stack<T>::Stack() {
     first = NULL;
     top = 0;
 }
-
+template <typename T>
+void Stack<T>::push(T value) {
+    auto *d = new DataElement();
+    d->value = value;
+    d->next = first;
+    first = d;
+    top++;
+}
 template <typename T>
 T Stack<T>::pop() {
     if (first == NULL) throw "stack is empty";
@@ -49,14 +56,7 @@ T Stack<T>::pop() {
     return tmp;
 }
 
-template <typename T>
-void Stack<T>::push(T value) {
-    auto *d = new DataElement();
-    d->value = value;
-    d->next = first;
-    first = d;
-    top++;
-}
+
 
 template <typename T>
 void Stack<T>::print() {
