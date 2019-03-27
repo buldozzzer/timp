@@ -1,3 +1,0 @@
-C:/Users/Ivan/CLionProjects/BINARY_HEAP/cmake-build-debug/CMakeFiles/BINARY_HEAP.dir
-C:/Users/Ivan/CLionProjects/BINARY_HEAP/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Ivan/CLionProjects/BINARY_HEAP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
