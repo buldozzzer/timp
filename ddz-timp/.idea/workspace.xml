@@ -34,8 +34,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="346516d8-b07d-4b45-a668-214e2679b146" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ddz.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ddz.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="289">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding>
                 <element signature="e#72#91#0" expanded="true" />
               </folding>
@@ -76,7 +75,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -146,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554329404273</updated>
       <workItem from="1554329406660" duration="949000" />
-      <workItem from="1554408660307" duration="2917000" />
+      <workItem from="1554408660307" duration="6630000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;ddz&#10;&quot;">
       <created>1554329571028</created>
@@ -173,7 +172,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3866000" />
+    <option name="totallyTimeSpent" value="7579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="608" y="1" width="765" height="735" extended-state="0" />
@@ -192,7 +191,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="TeamCity" order="8" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32890365" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="CMake" order="13" />
@@ -225,8 +224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ddz.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
             <element signature="e#72#91#0" expanded="true" />
           </folding>

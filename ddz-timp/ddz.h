@@ -9,37 +9,14 @@
 
 using namespace std;
 
-class GraphNode{
-public:
-    bool New;
-    vector<GraphNode> Links;
-};
+int dfs_timer = 0;                  // "таймер" для определения времён
 
-class Graph{
-public:
-    vector<GraphNode> Nodes;
-};
-
-class PathFinder{
+class graph{
 private:
-    vector<GraphNode> list;
-    vector<list<GraphNode>> paths;
+    vector<vector<int>> g;          //граф
+    int n;                          //число вершин
+    vector<int> color;              //цвет вершины (0, 1, 2)
+    vector<int> time_in, time_out;  //"времена" захода и выхода из вершины
 public:
-    vector<list<GraphNode>> Find(Graph graph){
-        for(auto i: graph.Nodes) {
-            i = true;
-        }
-
-        list.push_back(graph.Nodes[0]);
-
-        bool done = false;
-        while(!done){
-            while(list.size()>0){
-                InteralFind(list[list.size()-1]);
-            }
-            done = true;
-
-        }
-    };
-    void InternalFind(GraphNode node);
+    void dfs(int v);
 };
