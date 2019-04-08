@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Ivan/CLionProjects/ddz-timp/main.cpp
+C:/Users/Ivan/CLionProjects/ddz-timp/ddz.h
 iostream
 -
+cstdlib
+-
+vector
+-
+ctime
+-
+
+C:/Users/Ivan/CLionProjects/ddz-timp/main.cpp
+ddz.h
+C:/Users/Ivan/CLionProjects/ddz-timp/ddz.h
 
