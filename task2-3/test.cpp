@@ -5,13 +5,27 @@
 #include "C:\Users\Ivan\Desktop\catch.hpp"
 #include <ctime>
 #include <chrono>
+#include <fstream>
+#include <iostream>
 using namespace std;
 using namespace std::chrono;
 TEST_CASE("1", "R-K"){
     vector<int> vector1;
-    vector1.push_back(Rabin_Karp_Matcher("abcabaabcabac", "abaa", 234, 7));
+    fstream in;
+    in.open("C:/Users/Ivan/ClionProjects/task2-3/strings.txt");
+    string s1;
+    string s2;
+    if(in.is_open()) {
+        while (!in.eof()) {
+            in >> s1;
+            in >> s2;
+            cout << s1 << endl << s2;
+        }
+    }
+    vector1.push_back(Rabin_Karp_Matcher(s1, s2, 234, 7));
     vector<int> vector2;
-    vector2.push_back(Naive_String_Matcher("abcabaabcabac", "abaa"));
+    vector2.push_back(Naive_String_Matcher(s1, s2));
+    in.close();
     REQUIRE(vector1 == vector2);
 }
 
@@ -34,7 +48,7 @@ TEST_CASE("2", "R-K - N"){
     REQUIRE(vector1 == vector2);
 }
 
-TEST_CASE("TEST 3", "[tag3]"){
+TEST_CASE("3", "Time"){
     string s1;
     s1.resize(500);
     for(int i=0; i!=s1.size(); ++i){
