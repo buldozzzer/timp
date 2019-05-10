@@ -19,10 +19,10 @@ TEST_CASE("1", "R-K"){
         while (!in.eof()) {
             in >> s1;
             in >> s2;
-            cout << s1 << endl << s2;
+            cout << s1 << endl << s2 << endl;
         }
     }
-    vector1.push_back(Rabin_Karp_Matcher(s1, s2, 234, 7));
+    vector1.push_back(Rabin_Karp_Matcher(s1, s2, 234,7));
     vector<int> vector2;
     vector2.push_back(Naive_String_Matcher(s1, s2));
     in.close();
@@ -32,36 +32,37 @@ TEST_CASE("1", "R-K"){
 TEST_CASE("2", "R-K - N"){
     vector<int> vector1;
     vector<int> vector2;
+    fstream in;
+    in.open("C:/Users/Ivan/ClionProjects/task2-3/long_strings.txt");
     string s1;
-    s1.resize(100);
-    srand(time(NULL));
-    for(int i=0; i!=s1.size(); ++i){
-        s1[i] = (char)(21 + rand()%234);
-    }
     string s2;
-    s2.resize(3);
-    for(int i=0; i!=s2.size(); ++i){
-        s2[i] = (char)( rand()% 234 +21);
+    if(in.is_open()) {
+        while (!in.eof()) {
+            in >> s1;
+            in >> s2;
+            cout << s1 << endl << s2 << endl;
+        }
     }
-    vector1.push_back(Rabin_Karp_Matcher(s1, s2, 31, 31));
+    vector1.push_back(Rabin_Karp_Matcher(s1, s2, 31,31));
     vector2.push_back(Naive_String_Matcher(s1, s2));
+    in.close();
     REQUIRE(vector1 == vector2);
 }
 
 TEST_CASE("3", "Time"){
+    fstream in;
+    in.open("C:/Users/Ivan/ClionProjects/task2-3/long_strings.txt");
     string s1;
-    s1.resize(500);
-    for(int i=0; i!=s1.size(); ++i){
-        s1[i] = (char)(21 + rand()%234);
-    }
     string s2;
-    s2.resize(3);
-    for(int i=0; i!=s2.size(); ++i){
-        s2[i] = (char)( rand()% 234 +21);
+    if(in.is_open()) {
+        while (!in.eof()) {
+            getline(in, s1);
+            in >> s2;
+            cout << s1 << endl << s2 << endl;
+        }
     }
-
     auto start1 = steady_clock::now();
-    Rabin_Karp_Matcher(s1, s2, 1, 1000);
+    Rabin_Karp_Matcher(s1, s2, 31, 10001);
     auto end1 = steady_clock::now();
     auto elapsed1 = duration_cast<nanoseconds>(end1 - start1);
 

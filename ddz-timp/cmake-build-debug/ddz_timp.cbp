@@ -83,6 +83,9 @@
 		<Unit filename="C:/Users/Ivan/CLionProjects/ddz-timp/main.cpp">
 			<Option target="ddz_timp"/>
 		</Unit>
+		<Unit filename="C:/Users/Ivan/CLionProjects/ddz-timp/test.cpp">
+			<Option target="ddz_timp"/>
+		</Unit>
 		<Unit filename="C:/Users/Ivan/CLionProjects/ddz-timp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

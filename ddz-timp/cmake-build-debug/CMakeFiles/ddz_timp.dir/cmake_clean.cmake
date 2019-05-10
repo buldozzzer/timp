@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ddz_timp.dir/main.cpp.obj"
+  "CMakeFiles/ddz_timp.dir/test.cpp.obj"
   "ddz_timp.pdb"
   "ddz_timp.exe"
   "ddz_timp.exe.manifest"

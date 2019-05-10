@@ -45,7 +45,7 @@ int Naive_String_Matcher(const string T, const string P){
     }
     return 0;
 }
-int Rabin_Karp_Matcher(const string T, const string P, int d, int q){
+int Rabin_Karp_Matcher(const string T, const string P, int d, int q) {
     int n=T.size();
     int m=P.size();
     int h = mod(d, m-1, q);
