@@ -31,8 +31,8 @@ public:
         }
         g.resize(n);
         color.resize(n);
-        time_in.resize(26);
-        time_out.resize(26);
+        time_in.resize(n);
+        time_out.resize(n);
         while (!ss2.eof()) {
             string buf;
             getline(ss2, buf, ',');
@@ -44,14 +44,14 @@ public:
                 }
                 buf.clear();
         }
-        /*int alpha = 97;
+        int alpha = 97;
         for (auto &i: g) {
             cout << (char) alpha << ')' << ' ';
             ++alpha;
             for (auto &j: i)
                 cout << (char)(j+97) << ' ';
             cout << endl;
-        }*/
+        }
     }
 
     void dfs(string &s) {
@@ -83,4 +83,7 @@ public:
         time_out[v] = timer++;
         s += '>';
     };
+   /* void get_time(){
+        for (auto i:g)
+    }*/
 };
