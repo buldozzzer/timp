@@ -7,6 +7,20 @@
 #IncludeRegexTransform: 
 
 C:/Users/Ivan/CLionProjects/task2-5/main.cpp
+task2-5.h
+C:/Users/Ivan/CLionProjects/task2-5/task2-5.h
+fstream
+-
+
+C:/Users/Ivan/CLionProjects/task2-5/task2-5.h
 iostream
+-
+list
+-
+vector
+-
+sstream
+-
+string
 -
 

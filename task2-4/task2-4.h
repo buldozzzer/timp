@@ -10,8 +10,12 @@
 #include <cmath>
 #include <ctime>
 #include <sstream>
+#include <list>
 
 using namespace std;
+
+template <typename T>
+deque<int> to_bin(T number);
 
 vector<int> radix_sort(vector<int> &vec_int, int d) {
     for(int i = d; i >=1; i--) {
@@ -40,14 +44,7 @@ int get_discharge(int digit) {
     return str.size();
 }
 
-int get_max_length(vector<string> &vec_str){
-    int max_length=0;
-    for(auto i: vec_str){
-        if(i.size()>max_length)
-            max_length=i.size();
-    }
-    return max_length;
-}
+
 vector<vector<int>> prelim_sort(vector<int> &vecInt){
     vector<vector<int>> prelimVec(10); //вектор очередей, содержащих числа одинакового разряда
     for(auto i: vecInt)
@@ -62,6 +59,7 @@ vector<int> radix_sorter(vector<int> &vec_int) {
     vector<vector<int>> mod_vec = prelim_sort(vec_int);
     vector<int> vec_new;
     vector<int> vec_temp;
+    vector<list<int>> bin_vec(vec_int.size());
     for(int s=1; s!=mod_vec.size(); s++) {
             vec_temp = radix_sort(mod_vec[s], 10);
         for(auto &i: vec_temp)
@@ -71,14 +69,22 @@ vector<int> radix_sorter(vector<int> &vec_int) {
     vec_int=vec_new;
     return vec_int;
 }
-
+int get_max_length(vector<string> &vec_str){
+    int max_length=0;
+    for(int i=0; i<vec_str.size(); i++){
+        if(vec_str[i].size()>max_length)
+            max_length=vec_str[i].size();
+    }
+    return max_length;
+}
 
 vector<string> radix_sort(vector<string> &vec_str) {
-    for(auto &i: vec_str){
+    int len = get_max_length(vec_str);
+    for(auto i: vec_str){
         string reverse;
         copy(i.rbegin(), i.rend(), back_inserter(reverse));
-        for(int j=0; j<get_max_length(vec_str)-i.size(); j++)
-            reverse.push_back(' ');
+        for(int j=0; j<len-i.size(); j++)
+            reverse.push_back('\t');
         i.clear();
         copy(reverse.rbegin(), reverse.rend(), back_inserter(i));
         cout << i << '|';

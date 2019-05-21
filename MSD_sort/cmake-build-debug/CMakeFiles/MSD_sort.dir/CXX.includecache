@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ivan/CLionProjects/MSD_sort/main.cpp
+iostream
+-
+task2-4.h
+C:/Users/Ivan/CLionProjects/MSD_sort/task2-4.h
+cstdlib
+-
+ctime
+-
+
+C:/Users/Ivan/CLionProjects/MSD_sort/task2-4.h
+algorithm
+-
+iostream
+-
+iterator
+-
+vector
+-
+iterator
+-
+
